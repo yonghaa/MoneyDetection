@@ -21,7 +21,7 @@ YOLO와 CNN을 이용한 화폐 구별 모델을 만들어보고 OpenCV를 활�
 ![image](https://github.com/yonghaa/MoneyDetection/assets/145304155/dd9d42a1-0a16-4d7c-a9d0-501cb9f0bb75)
 ### CNN을 활용한 지폐 구별
 #### 사용 이미지
-![image](https://github.com/yonghaa/MoneyDetection/assets/145304155/24bb19bb-4714-4c61-b0be-c6150e888197)
+![10000won_1](https://github.com/yonghaa/MoneyDetection/assets/145304155/a531ab0a-d083-4021-a790-d2184bca2026)
 #### 결과
 ![CNN_result](https://github.com/yonghaa/MoneyDetection/assets/145304155/f3294dd9-3214-446d-a1ea-43d5e487868c)
 
