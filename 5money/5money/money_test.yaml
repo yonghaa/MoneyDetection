@@ -1,0 +1,10 @@
+names:
+- 1000won
+- 5000won
+- 10000won
+- 2dollar
+- 500vnd
+nc: 5
+test: C:/Users/user/Desktop/project_m/money_t/5money/5money/test
+train: C:/Users/user/Desktop/project_m/money_t/5money/5money/train
+val: C:/Users/user/Desktop/project_m/money_t/5money/5money/val
